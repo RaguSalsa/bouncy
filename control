@@ -1,0 +1,9 @@
+Package: com.implosi0n.bouncy
+Name: Bouncy
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Add a bounce effect to animations!
+Maintainer: Implosi0n
+Author: Implosi0n
+Section: Tweaks
